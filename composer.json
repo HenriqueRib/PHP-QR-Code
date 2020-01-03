@@ -1,0 +1,13 @@
+{
+    "name": "henrique-moreira/qr-code",
+    "authors": [
+        {
+            "name": "HenriqueRib",
+            "email": "ribeiro.henriquem@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "chillerlan/php-qrcode": "dev-master"
+    }
+}
